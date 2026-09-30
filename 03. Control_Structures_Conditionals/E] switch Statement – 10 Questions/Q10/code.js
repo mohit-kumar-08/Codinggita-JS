@@ -1,6 +1,7 @@
 let foodCategory = "veg";
 let foodItem = "pav";
 let plateSize = "half"
+let foodPrice;
 
 switch (foodCategory) {
     case "veg":
