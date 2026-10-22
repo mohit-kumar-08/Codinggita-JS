@@ -2,8 +2,8 @@
 // array_name[index] = new_value;
 
 //2.
-var marks = [80, 75, 90];
-marks[1] = 95;
+// var marks = [80, 75, 90];
+// marks[1] = 95;
 
 //3.
 // [80, 95, 90]
